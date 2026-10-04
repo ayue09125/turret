@@ -8,7 +8,7 @@
 
 Source and additional sources used:
 <br>
-[https://cdn.sparkfun.com/datasheets/Sensors/Accelerometers/RM-MPU-6000A.pdf?utm_source=chatgpt.com](https://cdn.sparkfun.com/datasheets/Sensors/Accelerometers/RM-MPU-6000A.pdf?utm_source=chatgpt.com)
+[https://cdn.sparkfun.com/datasheets/Sensors/Accelerometers/RM-MPU-6000A.pdf?](https://cdn.sparkfun.com/datasheets/Sensors/Accelerometers/RM-MPU-6000A.pdf?)
 <br>
 [https://docs.arduino.cc/language-reference/fun%C3%A7%C3%B5es/communication/wire/](https://docs.arduino.cc/language-reference/fun%C3%A7%C3%B5es/communication/wire/)
 <br>
